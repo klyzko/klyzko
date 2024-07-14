@@ -1,5 +1,5 @@
-## Hi there 👋
 
+## Hi, my name is Zakhar. There are suggestions for development, write to telegram: https://t.me/geekvl
 <!--
 **klyzko/klyzko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
